@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.btn{
+    border: 2px solid rgb(59, 58, 58);
+    font-size: 1.5rem;
+    margin: 30px 5%;
+    letter-spacing: 2px;
+    color: gray;
+}
+.container{
+    border: 2px solid rgb(240, 233, 233);
+    margin-top: 2rem;
+    width: 50vw;
+}
+#span{
+    margin-left: 45%;
+    margin-top: 2rem;
+    font-size: 5rem;
+}
+h1{
+    margin-left: 44%;
+    margin-top: 5rem;
+}
